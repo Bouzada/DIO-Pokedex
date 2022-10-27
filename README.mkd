@@ -1,0 +1,11 @@
+# Pokedex
+
+Esse projeto foi desenvolvido no Bootcamp Orange Tech + do Inter em parceria com a DIO.
+
+## Descrição
+
+A página foi contruída com HTML5, CSS3 e JS. As informações e as fotos para os cards dos Pokemons foram retiradas da API do Pokemon.
+
+### Modificações
+
+Tenho novas ideias para implementar nesse projeto e conforme foram sendo feitas irei fazendo o push para o repositório do Github.
